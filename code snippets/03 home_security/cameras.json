@@ -1,0 +1,12 @@
+{
+	"1": {
+		"friendlyName": "office camera",
+		"friendlyDescription": "Camera Pi in Office",
+		"uri": "rtsp://<network-url-of-connected-camera>:<port>/h264"
+	},
+	"2": {
+		"friendlyName": "hall camera",
+		"friendlyDescription": "Camera Pi in Hall",
+		"uri": "rtsp://<network-url-of-connected-camera>:<port>/h264"
+	}
+}
